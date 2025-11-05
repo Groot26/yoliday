@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Kemampuan Merangkum Tulisan",
+    "subject": "BAHASA SUNDA",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project1.jpg"
+  },
+  {
+    "title": "Menulis Cerita Pendek",
+    "subject": "BAHASA INDONESIA",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project2.jpg"
+  },
+  {
+    "title": "Proyek Matematika",
+    "subject": "MATEMATIKA",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project3.jpg"
+  },
+  {
+    "title": "Eksperimen Sains Dasar",
+    "subject": "ILMU PENGETAHUAN ALAM",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project4.jpg"
+  },
+  {
+    "title": "Sejarah Kemerdekaan",
+    "subject": "ILMU SOSIAL",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project5.jpg"
+  },
+  {
+    "title": "Pemahaman Teks Puisi",
+    "subject": "BAHASA INDONESIA",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project1.jpg"
+  },
+  {
+    "title": "Karya Seni Rupa",
+    "subject": "SENI BUDAYA",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project2.jpg"
+  },
+  {
+    "title": "Eksperimen Listrik Sederhana",
+    "subject": "ILMU PENGETAHUAN ALAM",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project3.jpg"
+  },
+  {
+    "title": "Analisis Data Statistik",
+    "subject": "MATEMATIKA",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project4.jpg"
+  },
+  {
+    "title": "Proyek Penulisan Artikel",
+    "subject": "BAHASA INGGRIS",
+    "author": "Oleh Al-Baiqi Samaan",
+    "grade": "A",
+    "image": "assets/images/project5.jpg"
+  }
+]
