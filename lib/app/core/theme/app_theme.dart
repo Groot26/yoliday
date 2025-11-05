@@ -7,6 +7,7 @@ class AppTheme {
   static ThemeData get lightTheme => ThemeData(
     primaryColor: AppColors.primary,
     scaffoldBackgroundColor: AppColors.background,
+    fontFamily: 'Roboto',
     colorScheme: ColorScheme.light(
       primary: AppColors.primary,
       secondary: AppColors.gradientStart,
