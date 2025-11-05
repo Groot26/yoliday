@@ -7,7 +7,7 @@ Designed with modular architecture and reusable components for scalability and c
 
 ## 🚀 Download APK
 
-👉 [Download the latest release (Google Drive)](https://drive.google.com/file/d/1qId-b4aXrWHKfWEAsQTBYxzFRl3jlsMZ/view?usp=sharing)
+👉 [Download the latest release (Google Drive)](https://drive.google.com/file/d/1e3RZXXcICs8--jXf1MfmgTqB6W0eagrl/view?usp=sharing)
 
 ---
 
